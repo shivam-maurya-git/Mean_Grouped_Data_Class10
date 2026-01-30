@@ -1,3 +1,5 @@
+!pip install seaborn
+
 # Importing libraries
 import streamlit as st
 import pandas as pd
@@ -202,3 +204,4 @@ if st.session_state.final == True:
 
       
             
+
