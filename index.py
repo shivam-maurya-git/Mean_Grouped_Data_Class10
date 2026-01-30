@@ -1,4 +1,4 @@
-!pip install seaborn
+pip install seaborn
 
 # Importing libraries
 import streamlit as st
@@ -204,4 +204,5 @@ if st.session_state.final == True:
 
       
             
+
 
